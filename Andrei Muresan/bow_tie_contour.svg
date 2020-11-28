@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bow_tie_contour.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-346.25519"
+     inkscape:cy="119.7802"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000"
+       d="M 572.5332 160.05664 L 494.41406 192.37109 C 451.44836 210.14419 414.94355 225.31976 413.29102 226.09375 C 409.1804 228.01904 404.24625 229.5848 399.46875 230.48047 C 395.91334 231.14704 393.36661 231.23002 376.83398 231.22656 C 360.91079 231.22256 357.67524 231.12235 354.54688 230.5332 C 349.94576 229.66668 345.16268 228.16476 341.22852 226.34961 C 336.99118 224.39451 182.53142 160.45975 181.50586 160.23633 C 179.27965 159.75134 176.2763 164.76864 173.94531 172.86719 C 167.22874 196.20241 162.89983 250.85878 164.86328 287.51758 C 167.08607 329.01892 171.35658 357.58646 176.96289 368.44141 C 179.38093 373.12317 180.37414 373.61961 184.13281 372.0293 C 185.56929 371.42152 220.5462 356.93982 261.85938 339.84766 C 303.17253 322.75545 339.04621 307.87098 341.58008 306.77148 C 346.82176 304.49703 352.24981 302.96168 357.19336 302.35547 C 361.58622 301.81683 392.48211 301.81406 396.77148 302.35156 C 401.46702 302.94037 407.20701 304.47713 411.01172 306.16406 C 413.58863 307.30663 541.90032 360.51078 566.98047 370.83594 C 573.41437 373.48468 573.55524 373.48028 575.78516 370.55664 C 581.07709 363.61846 586.072 335.76466 588.3418 300.53711 C 590.05236 273.98998 590.00374 256.92636 588.14062 230.0293 C 585.4433 191.08766 579.87088 163.98531 573.9043 160.79102 L 572.5332 160.05664 z "
+       id="path4168" />
+  </g>
+</svg>
